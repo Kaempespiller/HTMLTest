@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    font-style: sans-serif;
+}
+
+#mainBox {
+    border: 1px solid black;
+    padding: 10px;
+    background-color: lightgray;
+    cursor: pointer;
+  }
+  
+  #openBox {
+    display: none;
+    border: 1px solid black;
+    padding: 100px;
+    background-color: white;
+  }
